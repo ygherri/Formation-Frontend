@@ -1,0 +1,25 @@
+/* Feuille de styles CSS */
+h1
+{
+  color:red;
+  font-size: 3em;
+ 
+}
+div
+{
+  text-align: center;
+}
+figcaption
+{
+  text-align: center;
+}
+ul
+{
+  border: 3px red solid;
+  box-shadow: 3px 3px 3px;
+}
+a:hover
+{
+  font-weight: bold;
+}
+
